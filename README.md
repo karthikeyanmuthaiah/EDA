@@ -1,2 +1,2 @@
 # EDA
-eda
+Exploratory data analysis using python
